@@ -2,7 +2,7 @@
 
 Use the tool online now, http://ericeastwood.com/lab/vga-simulator/
 
-See this blog post for more info and how to use: http://ericeastwood.com/blog/8/vga-simulator-getting-started
+See this blog post for more info and how to use: http://ericeastwood.com/blog/vga-simulator-getting-started
 
 ![](http://i.imgur.com/e5XkXp6.png)
 
