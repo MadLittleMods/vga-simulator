@@ -1,6 +1,6 @@
 # VGA Simulator
 
-Use the tool online now, http://ericeastwood.com/lab/vga-simulator/
+Use the tool online now, https://madlittlemods.github.io/vga-simulator
 
 See this blog post for more info and how to use: http://ericeastwood.com/blog/vga-simulator-getting-started
 
