@@ -1,10 +1,18 @@
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+  box-sizing: border-box;
+}
 *,
 *:before,
 *:after {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
+  box-sizing: inherit;
 }
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+  line-height: 1.5;
+}
+
 canvas {
   width: 0;
   height: 0;
@@ -23,7 +31,6 @@ output {
   border: 1px solid #b8b3ad;
   padding: 3px 6px;
 
-  -webkit-border-radius: 3px;
   border-radius: 3px;
 }
 
